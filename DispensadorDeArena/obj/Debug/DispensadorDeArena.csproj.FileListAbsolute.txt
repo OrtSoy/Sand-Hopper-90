@@ -1,0 +1,171 @@
+c:\users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.exe
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.exe.config
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\obj\Debug\HopperNumber.g.cs
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\obj\Debug\MainWindow.g.cs
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\obj\Debug\TipoDeArena.g.cs
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\obj\Debug\App.g.cs
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena_MarkupCompile.cache
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena_MarkupCompile.lref
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\obj\Debug\HopperNumber.baml
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\obj\Debug\MainWindow.baml
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\obj\Debug\TipoDeArena.baml
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.g.resources
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.Properties.Resources.resources
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.csproj.GenerateResource.Cache
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.exe
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.pdb
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.pdb
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.csprojResolveAssemblyReference.cache
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcComRcw.dll
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.Com.dll
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.dll
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.Xml.dll
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.xml
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.Com.xml
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.Xml.xml
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.dll
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.xml
+C:\Users\manuel.ortega\documents\visual studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manuel.ortega\Documents\Visual Studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\AdvancedHMIControls.dll
+C:\Users\manuel.ortega\Documents\Visual Studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\manuel.ortega\Documents\Visual Studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\manuel.ortega\Documents\Visual Studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\manuel.ortega\Documents\Visual Studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.exe.manifest
+C:\Users\manuel.ortega\Documents\Visual Studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.application
+C:\Users\manuel.ortega\Documents\Visual Studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.exe.manifest
+C:\Users\manuel.ortega\Documents\Visual Studio 2015\Projects\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.application
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.exe.config
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.exe
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.pdb
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.exe.manifest
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.application
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.exe
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.pdb
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\AdvancedHMIControls.dll
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\AdvancedHMIDrivers.dll
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.dll
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.Com.dll
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.dll
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.Xml.dll
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.xml
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.csprojResolveAssemblyReference.cache
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\HopperNumber.g.cs
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\MainWindow.g.cs
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\TipoDeArena.g.cs
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\App.g.cs
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena_MarkupCompile.cache
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena_MarkupCompile.lref
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\HopperNumber.baml
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\MainWindow.baml
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\TipoDeArena.baml
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.g.resources
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.Properties.Resources.resources
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.csproj.GenerateResource.Cache
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.exe.manifest
+C:\C#Programs\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.application
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.exe.config
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.exe
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.pdb
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.exe.manifest
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.application
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.exe
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.pdb
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\AdvancedHMIControls.dll
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.dll
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcComRcw.dll
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.Com.dll
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.dll
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.Xml.dll
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.xml
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.xml
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.Com.xml
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.Xml.xml
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.csprojResolveAssemblyReference.cache
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\HopperNumber.g.cs
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\MainWindow.g.cs
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\TipoDeArena.g.cs
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\App.g.cs
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena_MarkupCompile.cache
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena_MarkupCompile.lref
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\HopperNumber.baml
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\MainWindow.baml
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\TipoDeArena.baml
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.g.resources
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.Properties.Resources.resources
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.csproj.GenerateResource.Cache
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.exe.manifest
+C:\Users\manuel.ortega\Proyectos 2017\C#\Tolvas\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.application
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.exe.config
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.exe.manifest
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.application
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.exe
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.pdb
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.dll
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.Com.dll
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.dll
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.Xml.dll
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.xml
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.csprojResolveAssemblyReference.cache
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\HopperNumber.g.cs
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\MainWindow.g.cs
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\TipoDeArena.g.cs
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\App.g.cs
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena_MarkupCompile.cache
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena_MarkupCompile.lref
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\HopperNumber.baml
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\MainWindow.baml
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\TipoDeArena.baml
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.g.resources
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.Properties.Resources.resources
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.csproj.GenerateResource.cache
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.csproj.CoreCompileInputs.cache
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.exe.manifest
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.application
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.csproj.CopyComplete
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.exe
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.pdb
+C:\Users\manuel.ortega\Documents\Proyecto PCC\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcComRcw.dll
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.exe.config
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.exe.manifest
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.application
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.exe
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\bin\Debug\DispensadorDeArena.pdb
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.dll
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcComRcw.dll
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.Com.dll
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.dll
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\bin\Debug\OpcNetApi.Xml.dll
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.xml
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.csprojResolveAssemblyReference.cache
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\HopperNumber.g.cs
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\MainWindow.g.cs
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\TipoDeArena.g.cs
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\App.g.cs
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena_MarkupCompile.cache
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena_MarkupCompile.lref
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\HopperNumber.baml
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\MainWindow.baml
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\TipoDeArena.baml
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.g.resources
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.Properties.Resources.resources
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.csproj.GenerateResource.cache
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.csproj.CoreCompileInputs.cache
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.exe.manifest
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.application
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.csproj.CopyComplete
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.exe
+C:\Users\manuel.ortega\Documents\Proyectos PCC\C#\DispensadorDeArena\DispensadorDeArena\obj\Debug\DispensadorDeArena.pdb

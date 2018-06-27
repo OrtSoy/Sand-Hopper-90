@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>S:\Utilerias - Utilities\Programas\ProyectosManuelOrtega\Proyecto Dispensador De Arena\2018\Dispensador de arena 90\|H:\Prueba de Updates\|C:\Users\manuel.ortega\Documents\|S:\Utilerias - Utilities\Programas\ProyectosManuelOrtega\Proyecto Dispensador De Arena\2018\V1.1.0.2-90\|S:\Utilerias - Utilities\Programas\ProyectosManuelOrtega\Proyecto Dispensador De Arena\2018\V1.1.0.1-90\</PublishUrlHistory>
+    <InstallUrlHistory>\\afsmerfs01\SHARE\Utilerias - Utilities\Programas\ProyectosManuelOrtega\Proyecto Dispensador De Arena\2018\Dispensador de arena 90\|\\afsmerfs01\HOME\MER\manuel.ortega\Prueba de Updates\|\\afsmerfs01\HOME\MER\manuel.ortega\Prueba de Updates\Updates\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\afsmerfs01\Utilerias - Utilities\Programas\Proyecto Dispensador De Arena\2017\UpdatesDispensadoreDeArena\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

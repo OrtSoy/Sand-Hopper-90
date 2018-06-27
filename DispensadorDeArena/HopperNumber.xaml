@@ -1,0 +1,63 @@
+﻿<Window x:Class="DispensadorDeArena.HopperNumber"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DispensadorDeArena"
+        mc:Ignorable="d"
+        Title="HopperNumber" Height="1080" Width="1600" Background="{DynamicResource {x:Static SystemColors.InactiveCaptionBrushKey}}" WindowState="Maximized" ResizeMode="CanMinimize">
+    <Grid Margin="0,0,3,-1">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90*"/>
+            <RowDefinition Height="781*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="79*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="datelbl" HorizontalAlignment="Left" Height="93" Margin="55,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="220" FontSize="30" FontWeight="Bold"  Background="{DynamicResource {x:Static SystemColors.InactiveCaptionBrushKey}}"/>
+        <Button x:Name="SANB01_A" Content="SANBO1 A" Grid.Column="1" HorizontalAlignment="Left" Margin="23,29,0,0" Grid.Row="1" VerticalAlignment="Top" Width="131" Height="136" FontSize="25" Click="ButtonSB01_Click" />
+        <Button x:Name="SANB35" Content="SANB35" Grid.Column="1" HorizontalAlignment="Left" Margin="188,331,0,0" Grid.Row="1" VerticalAlignment="Top" Width="131" Height="130" FontSize="25" Click="SANB35_Click"/>
+        <Button x:Name="SANB11" Content="SANB11" Grid.Column="1" HorizontalAlignment="Left" Margin="357,181,0,0" Grid.Row="1" VerticalAlignment="Top" Width="135" Height="130" FontSize="25" Click="SANB11_Click"/>
+        <Button x:Name="SANB07" Content="SANB07" Grid.Column="1" HorizontalAlignment="Left" Margin="1129,33,0,0" Grid.Row="1" VerticalAlignment="Top" Width="131" Height="130" FontSize="25" Click="SANB07_Click"/>
+        <Button x:Name="SANB03" Content="SANB03" Grid.Column="1" HorizontalAlignment="Left" Margin="669,30,0,0" Grid.Row="1" VerticalAlignment="Top" Width="131" Height="135" FontSize="25" Click="SANB03_Click"/>
+        <Button x:Name="SANB01_B" Content="SANB01 B" Grid.Column="1" HorizontalAlignment="Left" Margin="188,29,0,0" Grid.Row="1" VerticalAlignment="Top" Width="131" Height="136" FontSize="25" Click="SANB01_B_Click" />
+        <Button x:Name="SANB36" Content="SANB36" Grid.Column="1" HorizontalAlignment="Left" Margin="357,340,0,0" Grid.Row="1" VerticalAlignment="Top" Width="137" Height="130" FontSize="25" Click="SANB36_Click"/>
+        <Button x:Name="SANB28" Content="SANB28" Grid.Column="1" HorizontalAlignment="Left" Margin="824,182,0,0" Grid.Row="1" VerticalAlignment="Top" Width="130" Height="130" FontSize="25" Click="SANB28_Click"/>
+        <Button x:Name="SANB20" Content="SANB20" Grid.Column="1" HorizontalAlignment="Left" Margin="512,182,0,0" Grid.Row="1" VerticalAlignment="Top" Width="130" Height="129" FontSize="25" Click="SANB20_Click"/>
+        <Button x:Name="SANB08" Content="SANB08" Grid.Column="1" HorizontalAlignment="Left" Margin="24,181,0,0" Grid.Row="1" VerticalAlignment="Top" Width="130" Height="130" FontSize="25" Click="SANB08_Click"/>
+        <Button x:Name="SANB04" Content="SANB04" Grid.Column="1" HorizontalAlignment="Left" Margin="824,30,0,0" Grid.Row="1" VerticalAlignment="Top" Width="129" Height="135" FontSize="25" Click="SANB04_Click"/>
+        <Button x:Name="SANB01C" Content="SANB01 C" Grid.Column="1" HorizontalAlignment="Left" Margin="357,29,0,0" Grid.Row="1" VerticalAlignment="Top" Width="132" Height="136" FontSize="25" Click="SANB01C_Click"/>
+        <Button x:Name="SANB37" Content="SANB37" Grid.Column="1" HorizontalAlignment="Left" Margin="512,340,0,0" Grid.Row="1" VerticalAlignment="Top" Width="130" Height="130" FontSize="25" Click="SANB37_Click"/>
+        <Button x:Name="SANB09" Content="SANB09" Grid.Column="1" HorizontalAlignment="Left" Margin="188,181,0,0" Grid.Row="1" VerticalAlignment="Top" Width="133" Height="130" FontSize="25" Click="SANB09_Click"/>
+        <Button x:Name="SANB05" Content="SANB05" Grid.Column="1" HorizontalAlignment="Left" Margin="973,30,0,0" Grid.Row="1" VerticalAlignment="Top" Width="129" Height="135" FontSize="25" Click="SANB05_Click"/>
+        <Button x:Name="SANB02" Content="SANB02" Grid.Column="1" HorizontalAlignment="Left" Margin="514,30,0,0" Grid.Row="1" VerticalAlignment="Top" Width="128" Height="136" FontSize="25" Click="SANB02_Click"/>
+        <Button x:Name="SANB34" Content="SANB34" Grid.Column="1" HorizontalAlignment="Left" Margin="24,334,0,0" Grid.Row="1" VerticalAlignment="Top" Width="135" Height="130" FontSize="25" Click="SANB34_Click"/>
+        <Label x:Name="label" Content="Nombre:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,66,0,0" Grid.Row="1" FontSize="40
+               " Height="75" Width="175"/>
+        <Label x:Name="labelFistname" Content="Firstname" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,136,0,0" Grid.Row="1" FontSize="30" Height="75" Width="290" FontWeight="Bold"/>
+        <Label x:Name="labelLastname" Content="Lastname" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,201,0,0" Grid.Row="1" FontSize="30" Height="70" Width="295" FontWeight="Bold"/>
+        <Label x:Name="label1" Content="Clock:" HorizontalAlignment="Left" Margin="11,344,0,0" Grid.Row="1" VerticalAlignment="Top" RenderTransformOrigin="0,-1.538" FontSize="50" Height="82" Width="170"/>
+        <Label x:Name="labelClock" Content="Clock:" HorizontalAlignment="Left" Margin="15,429,0,0" Grid.Row="1" VerticalAlignment="Top" RenderTransformOrigin="0,-1.538" FontSize="40" Height="82" Width="266" FontWeight="Bold"/>
+        <Button x:Name="button" FontSize="50" FontWeight="DemiBold" Content="Cancelar" HorizontalAlignment="Left" Margin="15,616,0,0" Grid.Row="1" VerticalAlignment="Top" Width="295" Click="button_Click" Height="150"/>
+        <Line x:Name="lineaTitle"
+    X1="10" Y1="10"
+    X2="1600" Y2="10"
+    Stroke="Black"
+    StrokeThickness="2" Margin="-10,0,-2,320" Grid.ColumnSpan="2" Grid.Row="1" />
+        <Line x:Name="lineaHorizontal"
+    X1="10" Y1="10"
+    X2="10" Y2="1080"
+    Stroke="Black"
+    StrokeThickness="2" Margin="310,-13,368,-2" Grid.RowSpan="2" Grid.ColumnSpan="2" />
+        <Label x:Name="labelTitulo" FontSize="40" Content="Selecciona el Nombre de tu Sanblast" Grid.Column="1" HorizontalAlignment="Left" Margin="280,15,0,0" VerticalAlignment="Top" Height="63" Width="704" FontWeight="Bold"/>
+        <Button x:Name="SANB39" Content="SANB39" Grid.Column="1" HorizontalAlignment="Left" Margin="666,344,0,0" Grid.Row="1" VerticalAlignment="Top" Width="134" Height="125" FontSize="25" Click="SANB39_Click" />
+        <Button x:Name="SANB41" Content="SANB41" Grid.Column="1" HorizontalAlignment="Left" Margin="817,339,0,0" Grid.Row="1" VerticalAlignment="Top" Width="136" Height="125" FontSize="25" Click="SANB41_Click" />
+        <Button  x:Name="SANB50" Content="SANB50" Grid.Column="1" HorizontalAlignment="Left" Margin="1129,331,0,0" Grid.Row="1" VerticalAlignment="Top" Width="131" Height="130" FontSize="25"  IsEnabled="True" Click="SANB50_Click" />
+        <!--agregar boton 47-->
+        <Button x:Name="SANB47" Content="SANB47" Grid.Column="1" HorizontalAlignment="Left" Margin="973,340,0,0" Grid.Row="1" VerticalAlignment="Top" Width="135" Height="124" FontSize="25" Click="SANB47_Click" />
+        <Button x:Name="SANB33" Content="SANB33" Grid.Column="1" HorizontalAlignment="Left" Margin="1125,182,0,0" Grid.Row="1" VerticalAlignment="Top" Width="135" Height="130" FontSize="25" Click="SANB33_Click" />
+        <Button x:Name="SANB26" Content="SANB26" Grid.Column="1" HorizontalAlignment="Left" Margin="670,182,0,0" Grid.Row="1" VerticalAlignment="Top" Width="130" Height="130" FontSize="25" Click="SANB26_Click" />
+        <Button x:Name="SANB29" Content="SANB29" Grid.Column="1" HorizontalAlignment="Left" Margin="978,181,0,0" Grid.Row="1" VerticalAlignment="Top" Width="130" Height="130" FontSize="25" Click="SANB29_Click" />
+    </Grid>
+</Window>
